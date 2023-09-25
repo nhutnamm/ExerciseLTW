@@ -1,8 +1,14 @@
 .header-section{
-    font-size: 25px;
+    font-size: 50px;
 }
 .table-all{
     width: 100%;
-    height:
+    height:710px;
+}
+.index-content{
+    font-size: 20px;
+}
+.footer{
+    font-size: 20px;
 }
 
